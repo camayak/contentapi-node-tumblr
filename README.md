@@ -14,7 +14,7 @@ You will also need a [Tumblr](https://www.tumblr.com/) account to publish conten
 
 Clone this repo to your development environment:
 
-`git clone ...`
+`git clone https://github.com/camayak/contentapi-node-tumblr.git`
 
 Register the application with Heroku:
 
