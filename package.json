@@ -1,0 +1,15 @@
+{
+  "name": "CamayakAPISample",
+  "author": "Edward Smith",
+  "description": "A sample Camayak publication API consumer app that publishes posts to tumblr.",
+  "version": "0.0.1",
+  "main": "./main/app.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "2.5.11",
+    "tumblr.js": "0.0.4",
+    "request": "2.34.0"
+  }
+}
