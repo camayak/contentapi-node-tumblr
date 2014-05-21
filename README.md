@@ -49,3 +49,5 @@ Deploy the application to Heroku:
     * `heroku config:set CAMAYAK_API_KEY=<api_key from Camayak>`
     * `heroku config:set CAMAYAK_SHARED_SECRET=<shared secret from Camayak>` - Only if using a shared secret.  Otherwise, don't create this environment variable.
 
+### Create, edit, and publish a new assignment to your new Publishing API destination
+
